@@ -1,0 +1,13 @@
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 忽略 pnpm 的锁定文件
+pnpm-lock.yaml
+
+# 忽略 pnpm 的存储位置
+.pnpm-store/
+
+# 忽略其他常见文件
+*.log
+*.tmp
+*.swp
